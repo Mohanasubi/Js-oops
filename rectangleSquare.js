@@ -37,7 +37,7 @@ class square{
 }
 
 const square4 = new square(4);
-const square10 = new square(10,20);
+const square10 = new square(10);
 
 console.log(`Area : ${square4.calculateArea()}`)
 console.log(`Perimeter : ${square4.calculatePerimeter()}`);
